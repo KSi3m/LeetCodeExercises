@@ -1,6 +1,6 @@
 package org.example.Top75;
 
-public class LongestSubArrAfterDeletingOneElement {
+public class FindTheHighestAltitude {
 
 	public int largestAltitude(int[] gain) {
         int[] altitudes = new int[gain.length+1];
